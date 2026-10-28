@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function Entry(){return <><script dangerouslySetInnerHTML={{__html:`(function(){var l;try{l=localStorage.getItem('locale')}catch(e){}if(l!=='pt'&&l!=='en')l=navigator.language.toLowerCase().startsWith('en')?'en':'pt';location.replace('/'+l+'/'+location.hash)})()`}}/><main style={{padding:'10vw'}}><h1>Lucas Gabriel Ferreira</h1><p><Link href="/pt/">Português</Link> / <Link href="/en/">English</Link></p></main></>}
