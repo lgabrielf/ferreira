@@ -35,3 +35,10 @@
 ## Revisão do usuário antes da publicação
 
 - Substituída a comunicação com stakeholders em inglês pelo trabalho em sistemas de onboarding das Apple Developer Academies, em contexto transnacional, conforme informação fornecida pelo usuário. Ajuste aplicado em resumo, bio e experiência nos dois idiomas e regenerados os quatro currículos.
+
+## Endereço de produção
+
+- Usuário escolheu tentar lferreira. Cloudflare confirmou o endereço exato `https://lferreira.pages.dev`, sem sufixos, e a publicação foi concluída.
+- Build de produção gerado com NEXT_PUBLIC_SITE_URL=https://lferreira.pages.dev.
+- Repositório público: https://github.com/lgabrielf/ferreira.
+- Publicação inicial por CLI. Integração automática por push permanece pendente; nenhum segredo OAuth temporário foi adicionado ao GitHub.

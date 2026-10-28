@@ -1,5 +1,7 @@
 # Portfólio de Lucas Gabriel Ferreira
 
+Produção: https://lferreira.pages.dev · Repositório: https://github.com/lgabrielf/ferreira
+
 Portfólio pessoal em português e inglês, desenvolvido com Next.js App Router, TypeScript e Tailwind CSS. Conteúdo pré-renderizado, sem banco de dados, tracking ou serviços pagos.
 
 ## Desenvolvimento
@@ -31,7 +33,7 @@ O build gera `out/`, que pode ser publicado em qualquer hospedagem estática. De
 
 A recomendação é Cloudflare Pages Free, por acomodar um portfólio que divulga disponibilidade freelance. Veja HOSTING.md para critérios e fontes. Não é necessário comprar domínio. O nome do subdomínio depende da disponibilidade no momento de criar o projeto.
 
-Conecte este repositório ao Cloudflare Pages, configure `npm run build` e a pasta de saída `out`, e defina `NEXT_PUBLIC_SITE_URL` com a URL de produção. Cada push na branch principal dispara nova publicação. Uma alternativa manual é `npx wrangler pages deploy out --project-name ferreira-api`; requer login e projeto criado.
+Conecte este repositório ao Cloudflare Pages, configure `npm run build` e a pasta de saída `out`, e defina `NEXT_PUBLIC_SITE_URL` com a URL de produção. Cada push na branch principal dispara nova publicação. Uma alternativa manual é `npx wrangler pages deploy out --project-name lferreira`; requer login e projeto criado.
 
 O projeto também inclui `vercel.json`. O Vercel Hobby tem restrição de uso comercial; não assine plano nem inicie trial para este projeto.
 

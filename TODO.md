@@ -2,11 +2,12 @@
 
 ## Bloqueios de publicação
 
-- [ ] Login no GitHub CLI. A CLI local retornou que não há hosts autenticados.
-- [ ] Login no Cloudflare Wrangler. A CLI retornou usuário não autenticado.
-- [ ] Criar repositório público e conectar Cloudflare Pages para deploys por push.
+- [x] Login no GitHub CLI.
+- [x] Login no Cloudflare Wrangler.
+- [x] Criar repositório público.
+- [ ] Conectar deploys automáticos por push.
 - [ ] Verificar nome disponível: preferência técnica `ferreira-api.pages.dev`; alternativa com trocadilho `ferreiroute.pages.dev`. Nenhum nome reservado.
-- [ ] Configurar NEXT_PUBLIC_SITE_URL, gerar build final e publicar.
+- [x] Configurar NEXT_PUBLIC_SITE_URL, gerar build final e publicar em https://lferreira.pages.dev.
 - [ ] Validar produção: PT/EN, PDFs, idioma, tema, SEO e DNS.
 - [ ] Executar Lighthouse fora da sandbox que bloqueou Chrome; corrigir notas inferiores a 95.
 
