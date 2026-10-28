@@ -31,3 +31,7 @@ Data: 27 de outubro de 2026, horário de Fortaleza.
 - Não há auditoria automatizada completa WCAG AA. Tokens e elementos seguem os critérios previstos, mas inspeção visual e código não substituem uma auditoria completa.
 - URLs canonical/sitemap usam localhost neste build de revisão. Devem ser regeneradas com NEXT_PUBLIC_SITE_URL real antes da publicação.
 - Nenhum deploy em produção, teste de DNS, ligação Git ou validação do cabeçalho Accept-Language em produção foi concluído: dependem de autenticação.
+
+## Contraste dos tokens
+
+Cálculo WCAG de luminância relativa: texto principal claro 13,72:1; secundário claro 5,22:1 e 4,73:1 sobre superfície; acento claro 5,91:1; botão claro 6,32:1. Secundário escuro 8,58:1 e 7,41:1 sobre superfície; acento escuro 7,79:1; botão escuro 7,35:1. Todos os pares de texto avaliados excedem 4,5:1.
