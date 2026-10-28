@@ -1,0 +1,327 @@
+{
+  "name": "Lucas Gabriel Ferreira",
+  "email": "lucasfeg7@gmail.com",
+  "location": "Natal, RN, Brasil",
+  "github": "https://github.com/lgabrielf",
+  "linkedin": "https://www.linkedin.com/in/lucasgbferreira/",
+  "pt": {
+    "title": "Engenheiro de Software Backend",
+    "summary": "Desenvolvo APIs e integrações em PHP e Python para sistemas corporativos, monitoramento industrial e operações de saúde. No IMD/LABCOMU, trabalho em projetos para a Apple, com foco em sincronização de dados, observabilidade e qualidade de software.",
+    "bio": "Sou Lucas Gabriel Ferreira, engenheiro de software backend em Natal. Desde 2021, trabalho com sistemas que conectam aplicações, dados e operações: de ERPs e processos hospitalares a monitoramento industrial. No IMD/LABCOMU, desenvolvo APIs para projetos com a Apple como cliente e colaboro diretamente em inglês com seus interlocutores. Meu trabalho inclui arquitetura hub-spoke, sincronização, auditoria de logs, busca com Elasticsearch e métricas com Prometheus. Sou bacharel em Ciência e Tecnologia pela UFRN e curso Engenharia de Computação.",
+    "availability": "Disponível para vagas e projetos freelance",
+    "experience": [
+      {
+        "id": "labcomu",
+        "company": "IMD/LABCOMU · UFRN",
+        "role": "Desenvolvedor Backend",
+        "period": "Dez 2023 - Atual",
+        "location": "Remoto, Brasil",
+        "bullets": [
+          "Desenvolvo APIs REST em PHP e Slim para projetos internacionais com a Apple como cliente, colaborando diretamente em inglês com seus interlocutores.",
+          "Implemento processos de sincronização de dados e trabalho na arquitetura hub-spoke do backend atual.",
+          "Desenvolvo auditoria de logs, integro busca com Elasticsearch e coleta de métricas com Prometheus para acompanhar a operação das APIs.",
+          "Mantenho e aprimoro pipelines de qualidade em cinco projetos backend, com testes automatizados, PHPStan nível 8 e SonarQube.",
+          "Contribuo para CI/CD e preparação de releases iOS, incluindo builds com Xcode, assinatura, provisionamento e distribuição pelo TestFlight."
+        ]
+      },
+      {
+        "id": "geowellex",
+        "company": "Geowellex",
+        "role": "Desenvolvedor Full Stack",
+        "period": "Mai 2023 - Atual",
+        "location": "Natal, RN",
+        "bullets": [
+          "Desenvolvo serviços FastAPI que conectam controladores industriais (PLCs) por MQTT e WebSocket para monitoramento de perfuração em tempo real.",
+          "Mantenho sistemas de monitoramento litológico em PHP, Symfony e Laravel, com interfaces em AngularJS.",
+          "Crio exportações personalizáveis de relatórios em PDF com Electron, Highcharts e TypeScript; configuro Mikrotik para o sistema portátil Drilling Box."
+        ]
+      },
+      {
+        "id": "db2",
+        "company": "DB2",
+        "role": "Desenvolvedor Full Stack",
+        "period": "Abr 2024 - Abr 2026",
+        "location": "Brasil",
+        "bullets": [
+          "Desenvolvi APIs com Django e Django REST Framework e integrações com Sienge para sistemas da construção civil.",
+          "Mantive aplicações em produção com Docker e AWS ECS/ECR, incluindo serviços backend e interfaces React."
+        ]
+      },
+      {
+        "id": "sesap",
+        "company": "SESAP/CTEC",
+        "role": "Desenvolvedor Full Stack",
+        "period": "Jan 2023 - Jul 2024",
+        "location": "Natal, RN",
+        "bullets": [
+          "Desenvolvi sistemas de logística hospitalar, estoque e nutrição parenteral com React, FastAPI, Flask, SQLAlchemy e PostgreSQL.",
+          "Mantive ambientes em contêineres com Portainer e desenvolvi dashboards em Power BI, automações com Selenium e serviços Windows."
+        ]
+      },
+      {
+        "id": "linuslog",
+        "company": "Linuslog",
+        "role": "Desenvolvedor Full Stack",
+        "period": "Ago 2021 - Dez 2022",
+        "location": "Natal, RN",
+        "bullets": [
+          "Desenvolvi módulos de ERP com FastAPI, SQLAlchemy, MySQL, React e TypeScript; mantive servidores Windows e Linux Debian."
+        ]
+      },
+      {
+        "id": "btn",
+        "company": "BTN Solutions",
+        "role": "Analista de Suporte a Sistemas",
+        "period": "Ago 2021 - Dez 2022",
+        "location": "Natal, RN",
+        "bullets": [
+          "Resolvi problemas de bancos Firebird, PostgreSQL e MySQL, com backups, recuperação, indexação e otimização; atuei no suporte a ERPs e virtualização de servidores."
+        ]
+      },
+      {
+        "id": "sti",
+        "company": "STI/UFRN",
+        "role": "Analista de Suporte a Sistemas",
+        "period": "Set 2021 - Dez 2021",
+        "location": "Natal, RN",
+        "bullets": [
+          "Fiz a interlocução entre usuários do SIGAA e desenvolvimento, com triagem de problemas e relatórios técnicos de bugs e vulnerabilidades."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidade Federal do Rio Grande do Norte (UFRN)",
+        "degree": "Engenharia de Computação",
+        "period": "Dez 2024 - Em andamento"
+      },
+      {
+        "institution": "Universidade Federal do Rio Grande do Norte (UFRN)",
+        "degree": "Bacharelado em Ciência e Tecnologia, ênfase em Computação",
+        "period": "Concluído em dez 2024"
+      }
+    ],
+    "skills": [
+      {
+        "category": "Backend e arquitetura",
+        "items": [
+          "PHP",
+          "Slim",
+          "Symfony",
+          "Laravel",
+          "Python",
+          "FastAPI",
+          "Django",
+          "Flask",
+          "APIs REST",
+          "SQLAlchemy",
+          "Arquitetura hub-spoke",
+          "Sincronização de dados"
+        ]
+      },
+      {
+        "category": "Dados e observabilidade",
+        "items": [
+          "PostgreSQL",
+          "MariaDB",
+          "MySQL",
+          "Redis",
+          "Elasticsearch",
+          "Prometheus",
+          "Auditoria de logs",
+          "MQTT",
+          "WebSocket"
+        ]
+      },
+      {
+        "category": "Infraestrutura e qualidade",
+        "items": [
+          "Docker",
+          "AWS ECS/ECR",
+          "Linux",
+          "CI/CD",
+          "Bitbucket Pipelines",
+          "PHPUnit",
+          "PHPStan",
+          "SonarQube"
+        ]
+      },
+      {
+        "category": "Interfaces e entrega",
+        "items": [
+          "React",
+          "TypeScript",
+          "AngularJS",
+          "Electron",
+          "Highcharts",
+          "Xcode",
+          "TestFlight"
+        ]
+      }
+    ],
+    "languages": [
+      "Português nativo",
+      "Inglês B2 (autoavaliado)"
+    ]
+  },
+  "en": {
+    "title": "Backend Software Engineer",
+    "summary": "I build PHP and Python APIs and integrations for enterprise systems, industrial monitoring and healthcare operations. At IMD/LABCOMU, I work on projects for Apple, focusing on data synchronization, observability and software quality.",
+    "bio": "I am Lucas Gabriel Ferreira, a backend software engineer based in Natal, Brazil. Since 2021, I have worked on systems connecting applications, data and operations, from ERPs and hospital workflows to industrial monitoring. At IMD/LABCOMU, I develop APIs for projects with Apple as a client and collaborate directly with stakeholders in English. My work includes hub-spoke architecture, synchronization, audit logging, Elasticsearch and Prometheus metrics. I hold a BSc in Science and Technology from UFRN and am pursuing a degree in Computer Engineering.",
+    "availability": "Open to roles and freelance projects",
+    "experience": [
+      {
+        "id": "labcomu",
+        "company": "IMD/LABCOMU · UFRN",
+        "role": "Backend Developer",
+        "period": "Dec 2023 - Present",
+        "location": "Remote, Brazil",
+        "bullets": [
+          "Develop PHP/Slim REST APIs for international projects with Apple as a client, working directly with stakeholders in English.",
+          "Implement data synchronization processes and contribute to the current backend’s hub-spoke architecture.",
+          "Build audit logging and integrate Elasticsearch search and Prometheus metrics to monitor API operations.",
+          "Maintain and improve quality pipelines across five backend projects with automated tests, PHPStan level 8 and SonarQube.",
+          "Contribute to CI/CD and iOS release preparation, including Xcode builds, signing, provisioning and TestFlight distribution."
+        ]
+      },
+      {
+        "id": "geowellex",
+        "company": "Geowellex",
+        "role": "Full Stack Developer",
+        "period": "May 2023 - Present",
+        "location": "Natal, Brazil",
+        "bullets": [
+          "Build FastAPI services connecting industrial PLCs through MQTT and WebSocket for real-time drilling monitoring.",
+          "Maintain lithological monitoring systems using PHP, Symfony and Laravel, with AngularJS interfaces.",
+          "Develop customizable PDF reports with Electron, Highcharts and TypeScript; configure Mikrotik for the portable Drilling Box monitoring system."
+        ]
+      },
+      {
+        "id": "db2",
+        "company": "DB2",
+        "role": "Full Stack Developer",
+        "period": "Apr 2024 - Apr 2026",
+        "location": "Brazil",
+        "bullets": [
+          "Developed Django and Django REST Framework APIs and Sienge integrations for construction industry software.",
+          "Maintained production applications using Docker and AWS ECS/ECR, including backend services and React interfaces."
+        ]
+      },
+      {
+        "id": "sesap",
+        "company": "SESAP/CTEC",
+        "role": "Full Stack Developer",
+        "period": "Jan 2023 - Jul 2024",
+        "location": "Natal, Brazil",
+        "bullets": [
+          "Built hospital logistics, inventory and parenteral nutrition systems with React, FastAPI, Flask, SQLAlchemy and PostgreSQL.",
+          "Maintained containerized environments with Portainer and developed Power BI dashboards, Selenium automations and Windows services."
+        ]
+      },
+      {
+        "id": "linuslog",
+        "company": "Linuslog",
+        "role": "Full Stack Developer",
+        "period": "Aug 2021 - Dec 2022",
+        "location": "Natal, Brazil",
+        "bullets": [
+          "Developed ERP modules with FastAPI, SQLAlchemy, MySQL, React and TypeScript; maintained Windows and Debian Linux servers."
+        ]
+      },
+      {
+        "id": "btn",
+        "company": "BTN Solutions",
+        "role": "Systems Support Analyst",
+        "period": "Aug 2021 - Dec 2022",
+        "location": "Natal, Brazil",
+        "bullets": [
+          "Resolved Firebird, PostgreSQL and MySQL issues through backups, recovery, indexing and optimization; supported ERPs and server virtualization."
+        ]
+      },
+      {
+        "id": "sti",
+        "company": "STI/UFRN",
+        "role": "Systems Support Analyst",
+        "period": "Sep 2021 - Dec 2021",
+        "location": "Natal, Brazil",
+        "bullets": [
+          "Connected SIGAA users with the development team through issue triage and technical reports on bugs and vulnerabilities."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Federal University of Rio Grande do Norte (UFRN)",
+        "degree": "Computer Engineering",
+        "period": "Dec 2024 - In progress"
+      },
+      {
+        "institution": "Federal University of Rio Grande do Norte (UFRN)",
+        "degree": "BSc in Science and Technology, Computing emphasis",
+        "period": "Completed Dec 2024"
+      }
+    ],
+    "skills": [
+      {
+        "category": "Backend and architecture",
+        "items": [
+          "PHP",
+          "Slim",
+          "Symfony",
+          "Laravel",
+          "Python",
+          "FastAPI",
+          "Django",
+          "Flask",
+          "REST APIs",
+          "SQLAlchemy",
+          "Hub-spoke architecture",
+          "Data synchronization"
+        ]
+      },
+      {
+        "category": "Data and observability",
+        "items": [
+          "PostgreSQL",
+          "MariaDB",
+          "MySQL",
+          "Redis",
+          "Elasticsearch",
+          "Prometheus",
+          "Audit logging",
+          "MQTT",
+          "WebSocket"
+        ]
+      },
+      {
+        "category": "Infrastructure and quality",
+        "items": [
+          "Docker",
+          "AWS ECS/ECR",
+          "Linux",
+          "CI/CD",
+          "Bitbucket Pipelines",
+          "PHPUnit",
+          "PHPStan",
+          "SonarQube"
+        ]
+      },
+      {
+        "category": "Interfaces and delivery",
+        "items": [
+          "React",
+          "TypeScript",
+          "AngularJS",
+          "Electron",
+          "Highcharts",
+          "Xcode",
+          "TestFlight"
+        ]
+      }
+    ],
+    "languages": [
+      "Portuguese: native",
+      "English: B2 (self-assessed)"
+    ]
+  }
+}
