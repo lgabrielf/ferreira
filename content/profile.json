@@ -6,8 +6,8 @@
   "linkedin": "https://www.linkedin.com/in/lucasgbferreira/",
   "pt": {
     "title": "Engenheiro de Software Backend",
-    "summary": "Desenvolvo APIs e integrações em PHP e Python para sistemas corporativos, monitoramento industrial e operações de saúde. No IMD/LABCOMU, trabalho em projetos para a Apple, com foco em sincronização de dados, observabilidade e qualidade de software.",
-    "bio": "Sou Lucas Gabriel Ferreira, engenheiro de software backend em Natal. Desde 2021, trabalho com sistemas que conectam aplicações, dados e operações: de ERPs e processos hospitalares a monitoramento industrial. No IMD/LABCOMU, desenvolvo APIs para projetos com a Apple como cliente e colaboro diretamente em inglês com seus interlocutores. Meu trabalho inclui arquitetura hub-spoke, sincronização, auditoria de logs, busca com Elasticsearch e métricas com Prometheus. Sou bacharel em Ciência e Tecnologia pela UFRN e curso Engenharia de Computação.",
+    "summary": "Desenvolvo APIs e integrações em PHP e Python para sistemas corporativos, monitoramento industrial e operações de saúde. No IMD/LABCOMU, desenvolvo sistemas que apoiam o onboarding nas Apple Developer Academies, em um projeto transnacional, com foco em sincronização de dados, observabilidade e qualidade de software.",
+    "bio": "Sou Lucas Gabriel Ferreira, engenheiro de software backend em Natal. Desde 2021, trabalho com sistemas que conectam aplicações, dados e operações: de ERPs e processos hospitalares a monitoramento industrial. No IMD/LABCOMU, desenvolvo sistemas que apoiam o onboarding nas Apple Developer Academies, em um projeto transnacional com a Apple como cliente. Meu trabalho inclui arquitetura hub-spoke, sincronização, auditoria de logs, busca com Elasticsearch e métricas com Prometheus. Sou bacharel em Ciência e Tecnologia pela UFRN e curso Engenharia de Computação.",
     "availability": "Disponível para vagas e projetos freelance",
     "experience": [
       {
@@ -17,7 +17,7 @@
         "period": "Dez 2023 - Atual",
         "location": "Remoto, Brasil",
         "bullets": [
-          "Desenvolvo APIs REST em PHP e Slim para projetos internacionais com a Apple como cliente, colaborando diretamente em inglês com seus interlocutores.",
+          "Desenvolvo APIs REST em PHP e Slim para sistemas que apoiam o onboarding nas Apple Developer Academies, em um projeto transnacional com a Apple como cliente.",
           "Implemento processos de sincronização de dados e trabalho na arquitetura hub-spoke do backend atual.",
           "Desenvolvo auditoria de logs, integro busca com Elasticsearch e coleta de métricas com Prometheus para acompanhar a operação das APIs.",
           "Mantenho e aprimoro pipelines de qualidade em cinco projetos backend, com testes automatizados, PHPStan nível 8 e SonarQube.",
@@ -166,8 +166,8 @@
   },
   "en": {
     "title": "Backend Software Engineer",
-    "summary": "I build PHP and Python APIs and integrations for enterprise systems, industrial monitoring and healthcare operations. At IMD/LABCOMU, I work on projects for Apple, focusing on data synchronization, observability and software quality.",
-    "bio": "I am Lucas Gabriel Ferreira, a backend software engineer based in Natal, Brazil. Since 2021, I have worked on systems connecting applications, data and operations, from ERPs and hospital workflows to industrial monitoring. At IMD/LABCOMU, I develop APIs for projects with Apple as a client and collaborate directly with stakeholders in English. My work includes hub-spoke architecture, synchronization, audit logging, Elasticsearch and Prometheus metrics. I hold a BSc in Science and Technology from UFRN and am pursuing a degree in Computer Engineering.",
+    "summary": "I build PHP and Python APIs and integrations for enterprise systems, industrial monitoring and healthcare operations. At IMD/LABCOMU, I develop systems supporting onboarding at Apple Developer Academies as part of a multinational project, focusing on data synchronization, observability and software quality.",
+    "bio": "I am Lucas Gabriel Ferreira, a backend software engineer based in Natal, Brazil. Since 2021, I have worked on systems connecting applications, data and operations, from ERPs and hospital workflows to industrial monitoring. At IMD/LABCOMU, I develop systems supporting onboarding at Apple Developer Academies as part of a multinational project with Apple as a client. My work includes hub-spoke architecture, synchronization, audit logging, Elasticsearch and Prometheus metrics. I hold a BSc in Science and Technology from UFRN and am pursuing a degree in Computer Engineering.",
     "availability": "Open to roles and freelance projects",
     "experience": [
       {
@@ -177,7 +177,7 @@
         "period": "Dec 2023 - Present",
         "location": "Remote, Brazil",
         "bullets": [
-          "Develop PHP/Slim REST APIs for international projects with Apple as a client, working directly with stakeholders in English.",
+          "Develop PHP/Slim REST APIs for systems supporting onboarding at Apple Developer Academies, as part of a multinational project with Apple as a client.",
           "Implement data synchronization processes and contribute to the current backend’s hub-spoke architecture.",
           "Build audit logging and integrate Elasticsearch search and Prometheus metrics to monitor API operations.",
           "Maintain and improve quality pipelines across five backend projects with automated tests, PHPStan level 8 and SonarQube.",

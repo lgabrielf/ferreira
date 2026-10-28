@@ -31,3 +31,7 @@
 - Open Graph usa PNGs PT/EN pré-gerados pelo script `scripts/generate-social.mjs`, evitando função de imagem em runtime e mantendo compatibilidade com export estático.
 - O conteúdo JSON recebe validação estrutural TypeScript em `content/profile.ts`, compartilhada entre PT e EN.
 - A troca de idioma reaplica a preferência de tema e desloca para o mesmo identificador de seção após atualizar o conteúdo.
+
+## Revisão do usuário antes da publicação
+
+- Substituída a comunicação com stakeholders em inglês pelo trabalho em sistemas de onboarding das Apple Developer Academies, em contexto transnacional, conforme informação fornecida pelo usuário. Ajuste aplicado em resumo, bio e experiência nos dois idiomas e regenerados os quatro currículos.
